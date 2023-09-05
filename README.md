@@ -1,12 +1,4 @@
-### Hi there 👋
-
-<!--
-**ManojWickramasingha/ManojWickramasingha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manoj Wickramasingha</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/professional-programmer-engineer-writing-code_3446-693.jpg?w=740&t=st=1693884965~exp=1693885565~hmac=70c28ed7e1d87482cdb3f742ddcdc6fee95e204b99704b05947d453f1e843536">
@@ -33,11 +25,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojwickramasingha&show_icons=true&locale=en&layout=compact" alt="manojwickramasingha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojwickramasingha&show_icons=true&locale=en" alt="manojwickramasingha" /></p>
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
