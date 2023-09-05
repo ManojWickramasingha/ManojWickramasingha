@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://rishavchanda.io](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif))
 <h1 align="center">Hi 👋, I'm Manoj Wickramasingha</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/professional-programmer-engineer-writing-code_3446-693.jpg?w=740&t=st=1693884965~exp=1693885565~hmac=70c28ed7e1d87482cdb3f742ddcdc6fee95e204b99704b05947d453f1e843536">
